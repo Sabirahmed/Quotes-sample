@@ -1,10 +1,6 @@
 # Quotes-sample
 Quotes using react-router dom, Firebase database and custom hooks.
 
-# Redux-sideEffect-demo
-Redux toolkit using asynchronous task and action creator.
-
-
  # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
